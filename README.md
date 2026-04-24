@@ -1,4 +1,4 @@
-# Advanced_PowerBI-Executive_Performance_-_Drivers_Analysis
+# Advanced_PowerBI-Executive_Performance-Drivers_Analysis
 ## Project Overview
 This project demonstrates an advanced Power BI business intelligence solution focused on executive performance monitoring and performance driver analysis. The report transforms a clean star‑schema dataset into a structured, decision‑oriented dashboard using advanced DAX, time intelligence, and business‑focused storytelling. The solution is designed to replicate a real‑world management reporting use case.
 
